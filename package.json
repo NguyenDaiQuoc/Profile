@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://NguyenDaiQuoc.github.io/ProfileF",
+  "homepage": "https://NguyenDaiQuoc.github.io/Profile",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
